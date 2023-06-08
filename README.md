@@ -20,3 +20,9 @@ There are two main libraries that I have used for this project.
   # this command will install BeutifulSoup4
   !pip install bs4
 ```
+## 🏆 Lessons Learned
+
+1. Usage of *Requests* library to extract text content from a webpage.
+2. Usage of *BeautifulSoup4* library to filter-out the data we need from html/xml content.
+3. Preparing a *DataFrame* using extracted data from webpage
+4. Deriving some conclusions from scraped data
